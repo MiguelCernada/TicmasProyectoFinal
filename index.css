@@ -1,0 +1,40 @@
+nav {
+    font-family: 'Roboto', sans-serif;
+    font-size: large;
+    width: 1220px;
+    background: rgb(201, 192, 210);
+    color:darkblue
+}
+
+h1 {
+    text-align: end;
+}
+
+header {
+    font-family: 'Roboto', sans-serif;
+    font-size: large;
+    width: 1200px;
+    background: rgb(119, 15, 119);
+    color: rgb(169, 169, 194);
+    border: 10px solid rgb(47, 2, 47);
+}
+
+
+.Datos {
+    padding: 10px;
+    border: 5px solid rgb(47, 2, 47);
+    position: relative;
+    width: 450px;
+    bottom: -15px;
+    left: 40px;
+}
+
+.Estudios {
+    padding: 10px;
+    border: 5px solid rgb(47, 2, 47);
+    width: 600px;
+    position: relative;
+    top: -550px;
+    bottom: 600px;
+    left: 550px;;
+} 
